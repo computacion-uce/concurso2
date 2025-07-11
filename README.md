@@ -14,8 +14,6 @@ Publicado en julio de 2025
 
 ### Ganadores Nivel Básico
 
-**Ganadores Nivel Básico**
-
 | LUGAR   | NOMBRE                             | CARRERA / SEMESTRE         |
 |---------|------------------------------------|-----------------------------|
 | **1ro.** | **RUIZ SALAZAR DAVID MARCELINO**   | **COMPUTACIÓN / 2DO SEMESTRE** |
@@ -24,8 +22,6 @@ Publicado en julio de 2025
 
 ### Ganadores Nivel Medio
 
-**Ganadores Nivel Medio**
-
 | LUGAR   | NOMBRE                         | CARRERA / SEMESTRE            |
 |---------|--------------------------------|-------------------------------|
 | **1ro.** | **ALAMMARIN MOUAAZ**           | **COMPUTACIÓN / 6TO SEMESTRE** |
@@ -33,8 +29,6 @@ Publicado en julio de 2025
 | 3ro.    | CONDOLO NARVAEZ BYRON PAUL     | COMPUTACIÓN / 7MO SEMESTRE    |
 
 ### Ganadores Nivel Avanzado
-
-**Ganadores Nivel Avanzado**
 
 | LUGAR   | NOMBRE                              | CARRERA / SEMESTRE              |
 |---------|-------------------------------------|---------------------------------|
