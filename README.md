@@ -1,4 +1,4 @@
-# II Concurso de Programación de la Carrera de Computación
+# II Concurso de Programación - Carrera de Computación
 
 © 2025 por Jaime Salvador, Zoila Ruiz, Sandra Navarrete.
 
